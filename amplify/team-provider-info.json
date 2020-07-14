@@ -11,5 +11,18 @@
             "StackId": "arn:aws:cloudformation:us-east-1:868388125405:stack/amplify-react-draw-devw-201335/7feb4bb0-c60e-11ea-b7b8-0a87c278b5b5",
             "AmplifyAppId": "dqhebbuh2oedj"
         }
+    },
+    "prd": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-real-time-canvas-prd-174538-authRole",
+            "UnauthRoleArn": "arn:aws:iam::868388125405:role/amplify-real-time-canvas-prd-174538-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::868388125405:role/amplify-real-time-canvas-prd-174538-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-real-time-canvas-prd-174538-deployment",
+            "UnauthRoleName": "amplify-real-time-canvas-prd-174538-unauthRole",
+            "StackName": "amplify-real-time-canvas-prd-174538",
+            "StackId": "arn:aws:cloudformation:us-east-1:868388125405:stack/amplify-real-time-canvas-prd-174538/fb1dda10-c612-11ea-aee0-12c9c271ca70",
+            "AmplifyAppId": "dqhebbuh2oedj"
+        }
     }
 }
